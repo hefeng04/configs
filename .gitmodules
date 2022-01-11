@@ -1,0 +1,6 @@
+[submodule "pnc"]
+	path = pnc
+	url = https://github.com/hefeng04/pnc.git
+[submodule "p8n"]
+	path = p8n
+	url = https://github.com/hefeng04/p8n.git
